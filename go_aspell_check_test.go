@@ -1,4 +1,4 @@
-package go_aspell_check
+package aspell_check
 
 import (
 	"testing"
