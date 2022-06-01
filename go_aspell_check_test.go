@@ -1,4 +1,4 @@
-package aspell_check
+package aspellcheck
 
 import (
 	"testing"

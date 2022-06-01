@@ -1,4 +1,4 @@
-module go_aspell_check
+module github.com/SKAARHOJ/go-aspell-check
 
 go 1.18
 
